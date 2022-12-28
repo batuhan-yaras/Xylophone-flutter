@@ -1,16 +1,16 @@
-# xaylophone
+# Xylophone App on Flutter
 
-A new Flutter project.
+You can play 7 notes with clicking the different colors as xylophone.
 
-## Getting Started
+### We used;
+- audioplayers library
+### We imported;
+- package:audioplayers/audioplayers.dart<br>
+inside of main.dart
 
-This project is a starting point for a Flutter application.
+You can find the syllables in the assets folder.<br>
+main.dart file is inside of the lib folder.
 
-A few resources to get you started if this is your first Flutter project:
+### Preview;
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Xylophone-App](https://user-images.githubusercontent.com/118076077/209863788-23489dd2-f808-4326-ad69-defd1db62f72.png)
