@@ -1,6 +1,7 @@
 # Xylophone App on Flutter
 
 You can play 7 notes with clicking the different colors as xylophone.
+- This app is not upgraded with clean codes. You can check [MyCard App](https://github.com/batuhan-yaras/MyCard) in my repositories for see the example of writing clean codes.
 
 ### We used;
 - audioplayers library
