@@ -1,16 +1,20 @@
 # Xylophone App on Flutter
 
 You can play 7 notes with clicking the different colors as xylophone.
-- This app is not upgraded with clean codes. You can check [MyCard App](https://github.com/batuhan-yaras/MyCard) in my repositories for see the example of writing clean codes.
 
 ### We used;
 - audioplayers library
 ### We imported;
 - package:audioplayers/audioplayers.dart<br>
-inside of main.dart
+inside of playsound_function.dart
 
 You can find the syllables in the assets folder.<br>
-main.dart file is inside of the lib folder.
+main.dart file and core folder is inside of the lib folder.
+
+### core folder has;
+- buildKey.dart
+- keyColors.dart
+- playsound_function.dart
 
 ### Preview;
 
